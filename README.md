@@ -10,6 +10,7 @@ Engine4D is a set of scripts, tools, and extensions to Unity for developing 4D (
 
 While this engine is in active development, the primary focus is with supporting features and compatibility for 4D Golf. So adding new features and improvements to the engine will be on a very strict case-by-case basis.
 
+Unity version: 2022.2.2f1
 # Scene Requirements
 
 Engine4D comes with some example scenes in the `Sample` folder. But if you’re starting from scratch, here are the requirements to build a 4D scene.
